@@ -200,10 +200,10 @@ function parallelDemo () {
 }
 
 // Async Function
-// async functions are were added to JavaScrip in ES2017. They're fully supported
+// async functions were added to JavaScript in ES2017. They're fully supported
 // in Node 7.6+ and Node 8+.
-// async functions are functions are declared prefixed with the keyword `async`.
-// async functions can treat promise as regular values if they're prefixed
+// async functions that are declared prefixed with the keyword `async`.
+// async functions can treat promises as regular values if they're prefixed
 // with the word `await`
 
 async function MyAsyncFn () {};
